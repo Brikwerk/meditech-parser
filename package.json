@@ -1,0 +1,25 @@
+{
+  "name": "meditech-parser",
+  "version": "1.2.0",
+  "description": "Allows for the parsing of output meditech repeat/reject files",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:dist": "mode=production node -e 'require(\"./build\").build()'",
+    "build:dev": "mode=development node -e 'require(\"./build\").build()'",
+    "start:dist": "mode=production node -e 'require(\"./build\").watch()'",
+    "start:dev": "mode=development node -e 'require(\"./build\").watch()'"
+  },
+  "keywords": [
+    "meditech",
+    "parsing",
+    "organization"
+  ],
+  "author": "Brikwerk",
+  "license": "MIT",
+  "devDependencies": {
+    "chokidar": "^3.0.1",
+    "inline-source": "^6.1.10",
+    "open": "^6.3.0"
+  }
+}

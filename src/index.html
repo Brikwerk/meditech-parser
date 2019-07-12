@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"> 
+    <title>Meditech Repeat/Reject Parser v1.3.1</title>
+    <!--------------------------------------------------------->
+    <!-- MAIN CSS -->
+    <!--------------------------------------------------------->
+    <link inline href="main.css"/>
+    <!--------------------------------------------------------->
+    <!-- UTILITY SCRIPTS -->
+    <!--------------------------------------------------------->
+    <script inline src="blob.js"></script>
+    <script inline src="filesaver.min.js"></script>
+    <script inline src="jszip.min.js"></script>
+    <!--------------------------------------------------------->
+    <!-- POLYFILLS -->
+    <!--------------------------------------------------------->
+    <script inline src="polyfills.js"></script>
+    <!--------------------------------------------------------->
+    <!-- PARSING SCRIPT -->
+    <!--------------------------------------------------------->
+    <script inline src="parse.js"></script>
+    <!--------------------------------------------------------->
+    <!-- RUNNER SCRIPT -->
+    <!--------------------------------------------------------->
+    <script inline src="main.js"></script>
+  </head>
+  <body>
+    <header>
+      <div id="logo-container">
+        <span id="title">Meditech Repeat/Reject Parser</span>
+        <span id="version">v1.3.1</span>
+      </div>
+    </header>
+    <section id="fileupload-container">
+      <div id="fileupload">
+        <div id="fileupload-text">
+          <span class="add-btn">+</span>
+          <span class="upload-text">ADD DOCS</span>
+          <span><span class="disable-on-ie">Drag and Drop Files Here or...<br></span>Click Here to Select them
+            Manually</span>
+        </div>
+        <input class="upload" type="file" name="file" multiple="multiple" id="file" enctype="multipart/form-data" />
+      </div>
+      <div class='message-container enable-on-ie disabled'><strong class="inline-tag warning-tag">WARNING:</strong> Drag and drop is not supported in Internet Explorer.
+        Please use either an alternate browser (Firefox, Chrome, etc) or click the upload box to upload your files.
+      </div>
+      <div id="error-display" class='message-container disabled'><strong class="inline-tag error-tag">ERROR:</strong></div>
+      <noscript>
+        <style>
+          #fileupload {
+            display: none;
+          }  
+        </style>
+        <div class='message-container'><strong class="inline-tag error-tag">ERROR:</strong>
+          JavaScript is currently disabled. Please enable JavaScript to allow for functionality.
+        </div>
+      </noscript>
+    </section>
+  </body>
+</html>

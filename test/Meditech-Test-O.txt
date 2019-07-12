@@ -1,0 +1,58 @@
+DATE: 10/06/19 @ 1457                                                              Testing Health Site ITS *LIVE*                                                                             PAGE 1
+USER: TESTING                                                                          REPEAT/REJECT STATISTICS
+                                                                                    DATE RANGE: 11/05/19 - 08/06/19
+                                                                                         DEPARTMENTS: DI
+                                                                                      SITE: Testing Hospital
+
+CATEGORY                                        ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo REASON ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo        
+  PROCEDURE                        MATERIAL          ARTRJ      ARTRP      DEXRJ      DEXRP       EXRJ       EXRP      MISRJ      MISRP       MORJ       MORP      OEXRJ      OEXRP      POSRJ        
+
+Operating Room                
+
+  O.R. L SPINE                     EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+
+TOTAL                                                    0          0          0          0          0          0          0          0          0          0          0          0          0        
+
+Radiography                   
+
+  ABD SGL VIEW                     EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  ABD MULTI 2 VIEWS                EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  ABD MULTI 3 VIEWS                EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  ANKLES BIL                       EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  ANKLE LT                         EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  CALCANEOUS LT                    EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  C SPINE                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  C / T SPINE                      EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  CHEST                            EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  FEMUR KNEE RT                    EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  FOOT ANKLE RT                    EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  FEET BIL                         EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  FOOT LT                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  FOOT RT                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HANDS BIL                        EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HAND RT                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HANDS WRISTS BIL                 EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HAND WRIST RT                    EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HIPS BIL                         EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HIP LT                           EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HIP LT TEMPLATE SERIES           EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HIP RT                           EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  HIP RT TEMPLATE SERIES           EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEES BIL                        EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEES BIL OA SPECIAL             EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEE LT                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEE LT TRAUMA SERIES            EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEE RT                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEE RT OA SPECIAL               EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  KNEE RT TRAUMA SERIES            EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  L SPINE                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  L SPINE SI JTS                   EXP                   0          0          0          0          0          0          0          0          0          0          0          0          2        
+  SHOULDERS BIL                    EXP                   0          0          0          0          0          0          0          0          0          0          0          0          2        
+  SHOULDER RT                      EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  THUMB RT                         EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  T SPINE                          EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  WRIST LT                         EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  WRIST RT                         EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+  WRIST SCAPHOID LT                EXP                   0          0          0          0          0          0          0          0          0          0          0          0          0        
+
+TOTAL                                                    0          0          0          0          0          0          0          0          0          0          0          0          4        
