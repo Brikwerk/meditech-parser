@@ -3,8 +3,9 @@
 ## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
-+ [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
++ [Parsing Process](#parsing_process)
++ [Author](#author)
++ [Acknowledgements](#acknowledgements)
 
 ## About <a name = "about"></a>
 This utility was created to convert text-formatted data into CSV-formatted data from the Meditech system. 
@@ -51,7 +52,7 @@ To Edit a Prebuilt Copy, the following must be installed:
 
 Note: Different scripts and styling are denoted with comments within the HTML
 
-## Parsing Process
+## Parsing Process <a name = "parsing_process"></a>
 
 ### Where to Start Reading From?
 
@@ -97,11 +98,11 @@ If any of the following assumptions are violated within the output file, the par
 
 Double click the compiled .html file to open the Meditech Parser in your browser of choice. The parser works best in Mozilla Firefox, Google Chrome, or Safari. Internet Explorer is supported, however, drag and drop is not available when using it.
 
-## Author
+## Author<a name = "author"></a>
 
 - Reece Walsh [(@brikwerk)](https://github.com/brikwerk)
 
-## Acknowledgements
+## Acknowledgements <a name = "acknowledgements"></a>
 
 - Eli Grey (Usage of Blob.js and Filesaver.js)
 - Stuart Knightley (Usage of JSZip.js)
